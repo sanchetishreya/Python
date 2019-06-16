@@ -1,1 +1,3 @@
-#Integer DataType
+# Integer DataType
+
+# Float Data Type
