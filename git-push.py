@@ -1,7 +1,7 @@
 
 import subprocess
 print("start")
-subprocess.call("gitpush.sh", shell=True)
+subprocess.call("g.sh", shell=True)
 print("end")
 
 #C:\Python\gitpush.sh
