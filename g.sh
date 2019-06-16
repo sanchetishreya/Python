@@ -1,5 +1,5 @@
 git add .
 
-git commit -m "Commit Message Ignored"
+git commit  --amend --no-edit
 
 git push origin master
