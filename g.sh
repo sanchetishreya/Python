@@ -1,5 +1,5 @@
 git add .
 
-git commit --amend --no-edit
+git commit -m "Python"
 
 git push origin master
