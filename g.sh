@@ -1,5 +1,5 @@
 git add .
 
-git commit  -m "Test"
+git commit  
 
 git push origin master
